@@ -1,35 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>AccountTrigger</members>
-        <members>AgmtDocusignRecipientAfterTrigger</members>
-        <members>AgmtDocusignRecipientBeforeTrigger</members>
-        <members>ContactTrigger</members>
-        <members>ContractOriginalTermTrigger</members>
-        <members>DocusignRecipientBeforeTrigger</members>
-        <members>HT62OpportunityMigration</members>
-        <members>HT62OrgCertificationStatusMigration</members>
-        <members>HTAccountMergeTrigger</members>
-        <members>HTAccountTrigger</members>
-        <members>HTContactMergeTrigger</members>
-        <members>HTContactTrigger</members>
-        <members>LeadTrigger</members>
-        <members>LeadTriggerForMarketing</members>
-        <members>OpportunityKeyContact</members>
-        <members>OpportunityOwnerUpdateTrigger</members>
-        <members>OpportunityTrigger</members>
-        <members>OpportunityTriggerForSpecialistForecast</members>
-        <members>PartnerAccountTrigger</members>
-        <members>PartnerOrderTrigger</members>
-        <members>RenewalOpportunityTrigger</members>
-        <members>RenewalsContractTrigger</members>
-        <members>RenewalsContractTrigger</members>
-        <members>SCE_ContactTrigger</members>
-        <members>SfdcOpportunityTrigger</members>
-        <members>declinePaymentCounterTrigger</members>
-        <members>eimAccountTrigger</members>
-        <members>eimContractTrigger</members>
-        <members>ocContractTrigger</members>
+        <members>*</members>
         <name>ApexTrigger</name>
     <types>
     <version>43.0</version>
